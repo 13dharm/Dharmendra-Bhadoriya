@@ -22,3 +22,10 @@ I am a Network Engineer and Cisco Meraki SME with hands-on experience in managin
 
 ## 📌 Purpose
 This repository contains my networking notes, configurations, and real-world troubleshooting scenarios.
+## 📂 My Work
+
+### 🔧 Meraki Configuration
+👉 [View Configuration](./configs/meraki-setup.md)
+
+### 🛠️ Troubleshooting Scenarios
+👉 [View Troubleshooting](./troubleshooting/common-issues.md)
